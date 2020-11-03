@@ -54,7 +54,7 @@
 51	Понасенков	Понасенков	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@jgk1957m#@jgk1957m#26.168#26.834
 52	/	/	PUNCT	_	_	_	_	_	words@jgk1957m#@jgk1957m#26.834#27.013
 53	/	/	PUNCT	_	_	_	_	_	words@jgk1957m#@jgk1957m#27.013#27.329
-54	эээ	эээ	NOUN	_	Foreign=Yes	_	_	_	words@jgk1957m#@jgk1957m#27.329#27.758
+54	эээ	эээ	INTJ	_	_	_	_	_	words@jgk1957m#@jgk1957m#27.329#27.758
 55	/	/	PUNCT	_	_	_	_	_	words@jgk1957m#@jgk1957m#27.758#27.769
 56	историк	историк	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@jgk1957m#@jgk1957m#27.769#28.48
 57	/	/	PUNCT	_	_	_	_	_	words@jgk1957m#@jgk1957m#28.48#28.496
